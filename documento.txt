@@ -1,0 +1,1 @@
+Ajax muestra archivos de text. Este es un simple ejemplo.
